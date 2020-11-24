@@ -1,6 +1,5 @@
 ##Visual Studio codeの練習
 
-練習です
+ブラウザです
 DES
 
-ブラウザで変更
